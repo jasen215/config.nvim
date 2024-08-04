@@ -7,7 +7,7 @@ peace-loving hippies. Built for Mac OS X.
 
 * Awesome syntax highlighting with the oneleaf
 
-### nvim
+### Feature
 
 The following assume your [leader key] is set to `,`.
 
@@ -34,6 +34,10 @@ You can change your leader key using the following setting in your `~/.config/nv
 
 
 ## Install
+
+```
+git clone https://github.com/jasen215/config.nvim ~/.confie/nvim
+```
 
 ## Update
 
