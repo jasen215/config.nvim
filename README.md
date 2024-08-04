@@ -36,7 +36,7 @@ You can change your leader key using the following setting in your `~/.config/nv
 ## Install
 
 ```
-git clone https://github.com/jasen215/config.nvim ~/.confie/nvim
+git clone https://github.com/jasen215/config.nvim.git ~/.confie/nvim
 ```
 
 ## Update
