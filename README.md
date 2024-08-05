@@ -1,13 +1,8 @@
 # My Nvim Configure
 
-Config files for nvim and tmux, lovingly tended by a small subculture of
-peace-loving hippies. Built for Mac OS X.
+Config files for nvim.
 
-## What's in it?
-
-* Awesome syntax highlighting with the oneleaf
-
-### Feature
+## Feature
 
 The following assume your [leader key] is set to `,`.
 
@@ -32,17 +27,3 @@ You can change your leader key using the following setting in your `~/.config/nv
 git clone https://github.com/jasen215/config.nvim.git ~/.confie/nvim
 ```
 
-## Update
-
-## Customize
-
-## Uninstall
-
-## Contribute
-
-## TODO
-
-## Acknowledgements
-
-Thanks to the vimsters at Square who put this together. Thanks to Tim Pope for
-his awesome vim plugins.
